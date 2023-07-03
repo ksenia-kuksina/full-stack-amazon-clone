@@ -18,13 +18,10 @@ function App() {
         </Router>
     );
 }
-
 function Checkout() {
     return <h1>Checkout page</h1>;
 }
-
 function Login() {
     return <h1>Login page</h1>;
 }
-
 export default App;
